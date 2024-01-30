@@ -1,0 +1,9 @@
+pandas
+mysql.connector
+folium
+webbrowser
+numpy
+pandas
+matplotlib
+seaborn
+datetime
